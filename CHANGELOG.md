@@ -1,5 +1,17 @@
 # Changelog
 
+## [3.2.0](https://github.com/sianzhan/actiontest/compare/v3.1.0...v3.2.0) (2023-03-07)
+
+
+### Features
+
+* test 10 ([1cca240](https://github.com/sianzhan/actiontest/commit/1cca240d77458814f2c8334b182c618b5bef3478))
+* test 11 ([83c07ed](https://github.com/sianzhan/actiontest/commit/83c07ed9f9aac6c1126e2740446620a7c66a494b))
+* test 6 ([04e686b](https://github.com/sianzhan/actiontest/commit/04e686b1ac472e43bc0f60f5a967a262a1678f74))
+* test 7 ([4243110](https://github.com/sianzhan/actiontest/commit/42431105565a71c44cbdc984b214b09749095f4b))
+* test 8 ([3b98b79](https://github.com/sianzhan/actiontest/commit/3b98b798c77e8f82d7a2fbc380b3ad34e390f561))
+* test 9 ([9193660](https://github.com/sianzhan/actiontest/commit/9193660cacd8297846ca354a9c48d4329f15bce7))
+
 ## [3.1.0](https://github.com/sianzhan/actiontest/compare/v3.0.0...v3.1.0) (2023-03-07)
 
 
