@@ -1,1 +1,1 @@
-chore!: drop support for Node 6
+chore!: drop support for Node 7
