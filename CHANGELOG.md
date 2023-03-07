@@ -1,5 +1,17 @@
 # Changelog
 
+## [3.0.0](https://github.com/sianzhan/actiontest/compare/v2.0.0...v3.0.0) (2023-03-07)
+
+
+### ⚠ BREAKING CHANGES
+
+* `extends` key in config file is now used for extending other config files
+
+### Features
+
+* allow provided config object to extend other configs ([b772bdf](https://github.com/sianzhan/actiontest/commit/b772bdf7e003f2fd1d37c73559707b02f3f1e046))
+* feat test1 ([a4db180](https://github.com/sianzhan/actiontest/commit/a4db1801ca478b99876bebafc8029f38da5ea999))
+
 ## [2.0.0](https://github.com/sianzhan/actiontest/compare/v1.0.0...v2.0.0) (2023-03-07)
 
 
