@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/sianzhan/actiontest/compare/v1.0.0...v2.0.0) (2023-03-07)
+
+
+### ⚠ BREAKING CHANGES
+
+* drop support for Node 8
+
+### Miscellaneous Chores
+
+* drop support for Node 8 ([672193d](https://github.com/sianzhan/actiontest/commit/672193d8a097f8cdfb828a9cb62ba585a4fc09e1))
+
 ## 1.0.0 (2023-03-07)
 
 
